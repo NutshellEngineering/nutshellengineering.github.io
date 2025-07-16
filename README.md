@@ -1,1 +1,1 @@
-![](./nutshell.png)
+![](./nutshell-logo-xl.svg)
